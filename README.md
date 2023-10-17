@@ -38,7 +38,12 @@ Contributions are always welcome!
   <b> 🌴🎄🌳🌲 ⭐💖 - Page-2 - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
-
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Page-3 - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+
+## Used By
+
+This project is used by the following companies:
+
+- SmaDuleX
