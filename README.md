@@ -10,4 +10,7 @@
 
 #### Unlock 🔓🗝 Your Day, Easy to used Ready-Made utility "WORA"😂.
 
+## Contributing
+
+Contributions are always welcome!
 
