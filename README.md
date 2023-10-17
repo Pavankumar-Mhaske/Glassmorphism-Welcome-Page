@@ -34,13 +34,19 @@ Contributions are always welcome!
   <b> 🌴🎄🌳🌲 ⭐💖 - Page-1 - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
+![Screenshot (762)](https://github.com/Pavankumar-Mhaske/Glassmorphism-Welcome-Page/assets/104865937/0e74d47e-1e0d-4842-8fac-f682cb4cd7b8)
+
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Page-2 - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
+![Screenshot (763)](https://github.com/Pavankumar-Mhaske/Glassmorphism-Welcome-Page/assets/104865937/ecee5621-d6b0-4e8e-9e76-51e3993ab10a)
+
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Page-3 - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+
+![Screenshot (761)](https://github.com/Pavankumar-Mhaske/Glassmorphism-Welcome-Page/assets/104865937/4304d069-2b4c-4b16-913c-b56f0406fabf)
 
 ## Used By
 
